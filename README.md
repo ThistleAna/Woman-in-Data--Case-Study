@@ -1,2 +1,2 @@
 # snowflakes
-Woman in Data Course 
+Python Numpy, Tensor Flow, Keras excercise
